@@ -7,7 +7,7 @@ const unsigned long int BASE = 1000000000;
 typedef struct uint1024_t
 {
     unsigned long int digits[35];
-    int size;
+
 
 } uint1024_t;
 
